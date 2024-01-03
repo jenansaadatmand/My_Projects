@@ -1,4 +1,4 @@
-# This program says Hello, asks for user name, calculates the length of the name and predicts the age of the user in one year.
+# This program says Hello, asks for the user name, calculates the length of the name and predicts the age of the user in one year.
 
 print('Hello world')
 print('What is your name?')    # ask for their name
