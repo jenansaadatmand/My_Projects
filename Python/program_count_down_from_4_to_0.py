@@ -10,7 +10,7 @@ print()
 # Let's change the code to wait one second between each number by using the sleep() function from the time library 
 
 
-from time import sleep  # import the sleep() from the time module 
+from time import sleep  # Import the sleep() from the time module 
 
 countdown = [4, 3, 2, 1, 0]
 for number in countdown:
