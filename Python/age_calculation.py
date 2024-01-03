@@ -9,4 +9,3 @@ dob = date(1974,8,21) # dob = date of birth, date of birth as year, month, day
 dt3 = relativedelta(dt,dob)
 print("Years",dt3.years, "Months:", dt3.months, "days:", dt3.days)
 
-
