@@ -11,7 +11,7 @@
 
 from dateutil.relativedelta import relativedelta
 from datetime import date
-# alternatively: you can import all package components by import *
+# Alternatively: you can import all package components by import *
 
 dt = date.today()
 print("Today:", dt)
