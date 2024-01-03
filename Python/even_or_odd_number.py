@@ -4,7 +4,7 @@
 
 x = input("Enter Number:")
 x = float(x)
-if x%2 == 0: # use modulus % to check if number is divisible by 2 in a conditional if statement
+if x%2 == 0: # use modulus % to check if the number is divisible by 2 in a conditional if statement
     print("Number is even")
 else:
     print("Number is odd")
