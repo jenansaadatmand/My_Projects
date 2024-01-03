@@ -1,5 +1,5 @@
 # Chapter 3  Alternative conditional expression example on page 51
-# Program to check if a number is divisible by 2, using modulus (%) operator 
+# Program to check if a number is divisible by 2, using the modulus (%) operator 
 # Prgram indicates if a number is an even number or an odd number
 
 x = input("Enter Number:")
