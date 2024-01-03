@@ -7,7 +7,7 @@
 # Then add the code to perform the appropriate calculation and
 # Store the result in a variable named lightyears 
 # Finally print the result on the screen with print 
-# So it displays a message which resembles the following: 
+# So it displays a message that resembles the following: 
 # 11 parsecs is ----lightyears
 #  Remember to you can use str to convert numbers to strings
 # turn into str to be able to concatinate 
