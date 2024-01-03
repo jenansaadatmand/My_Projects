@@ -6,7 +6,7 @@
 # create a variable named parsecs and set it to 11
 # Then add the code to perform the appropriate calculation and
 # Store the result in a variable named lightyears 
-# Finally print the result on the screen with print 
+# Finally print the result on the screen with the print 
 # So it displays a message that resembles the following: 
 # 11 parsecs is ----lightyears
 #  Remember to you can use str to convert numbers to strings
