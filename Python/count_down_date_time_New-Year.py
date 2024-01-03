@@ -2,7 +2,7 @@
 # A date countdown program that calculates the next date when provided with the (years, months, weeks, and times) as input 
 # pip install python-dateutil in terminal only once
 # You can create date and time objects, loop through a range of dates, parse, and format date strings 
-# Many uses of relativedelta to find out date count up, count down and time remaining or to apply any datetime calculation
+# Many uses of relativedelta to find out date count up, count down, and time remaining or to apply any datetime calculation
 
 
 # Program calculates the number of dates and time remaining for New Year:
