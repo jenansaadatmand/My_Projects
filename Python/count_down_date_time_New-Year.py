@@ -1,4 +1,4 @@
-# Manipulating date and time object data, using a built in datetime library in python
+# Manipulating date and time object data, using a built-in datetime library in python
 # A date countdown program that calculates the next date when provided with the (years, months, weeks, and times) as input 
 # pip install python-dateutil in terminal only once
 # You can create date and time objects, loop through a range of dates, parse and format date strings 
