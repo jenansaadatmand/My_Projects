@@ -11,5 +11,3 @@ except:
     quit()
 print(cel)
 
-
-
