@@ -5,7 +5,7 @@
 # Many uses of relativedelta to find out date count up, count down and time remaining or to apply any datetime calculation
 
 
-# Program calculates number of dates and time remaining for New Year:
+# Program calculates the number of dates and time remaining for New Year:
 # check this website for other used of the python-dateutil package https://www.plus2net.com/python/date-relativedelta.php
 
 
