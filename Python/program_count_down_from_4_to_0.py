@@ -3,7 +3,7 @@
 countdown = [4, 3, 2, 1, 0]
 for number in countdown:
     print(number)
-print("Blast off!! 🚀")  # added an emoji that I copied from the online lesson in the browser
+print("Blast off!! 🚀")  # Added an emoji that I copied from the online lesson in the browser
 print()
 
 
