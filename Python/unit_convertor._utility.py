@@ -4,7 +4,7 @@
 # One parsed is 3.26 lightyears
 # So you will multiply parsecs by that value to determine lightyears
 # create a variable named parsecs and set it to 11
-# Then add the code to perfom the appropriate calculation and
+# Then add the code to perform the appropriate calculation and
 # Store the result in a variable named lightyears 
 # Finally print the result on the screen withprint 
 # So it displays a message which resembles the following: 
