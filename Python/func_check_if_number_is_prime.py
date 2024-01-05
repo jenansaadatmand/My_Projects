@@ -4,6 +4,7 @@
 # Numbers that have more than two factors are called composite numbers.
 
 
+# Code expressing for a defined function:
 
 # A function defined to check if a number is prime:
 
