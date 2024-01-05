@@ -8,6 +8,7 @@ def checkIfPrime (numberToCheck):
 # calling the function:
 
 checkIfPrime(13)
-# assign a variable to function
+
+# assign a variable to the function
 #answer = checkIfPrime(13)
 #print(answer)
