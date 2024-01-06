@@ -1,4 +1,5 @@
-# This program says Hello and asks for user name.
+# This program says Hello and asks for the user's name and age, then it predicts the user's age in a one-year timeline.
+
 print('Hello world')
 print('What is your name?')    # ask for their name
 myName = input()
