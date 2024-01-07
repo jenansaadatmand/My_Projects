@@ -6,7 +6,7 @@
 
 
 # Program calculates the number of dates and time remaining for New Year:
-# check this website for other uses of the python-dateutil package https://www.plus2net.com/python/date-relativedelta.php
+# Check this website for other uses of the python-dateutil package https://www.plus2net.com/python/date-relativedelta.php
 
 
 from dateutil.relativedelta import relativedelta
