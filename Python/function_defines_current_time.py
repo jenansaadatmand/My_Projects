@@ -2,10 +2,10 @@
 # Use datetime.now() to get the current date and time. 
 # Then, use strftime() to create a string representing date and time in another format.
 
-from datetime import datetime # module, class
+from datetime import datetime # Module, Class
 def time():
-    now = datetime.now() # function 
-    return now.strftime("%D %A %H %M")
+    now = datetime.now() # Function 
+    return now.strftime("%D %A %H %M") # presenting time in Date, Day, Hour, Minute format
 
 time()
 print("Current time:", time())
