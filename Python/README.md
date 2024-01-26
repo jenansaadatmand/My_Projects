@@ -1,1 +1,1 @@
-THis repository contains all Python related projects
+This repository contains all Python-related projects
