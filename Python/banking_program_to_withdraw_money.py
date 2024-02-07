@@ -2,7 +2,7 @@
 # Make the program report a message if the balance falls below the threshold limit of $50
 print()
 
-def withdraw_money(current_balance, amount): # function takes two parameters
+def withdraw_money(current_balance, amount): # Function takes two parameters
     if (current_balance >= amount):
         current_balance = current_balance - amount
         return current_balance  # functions returns a value
