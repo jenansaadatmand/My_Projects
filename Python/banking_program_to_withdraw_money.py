@@ -8,7 +8,7 @@ def withdraw_money(current_balance, amount): # function takes two parameters
         return current_balance  # functions returns a value
 
 
-balance = withdraw_money(100,80)  # provide two positional arguments, which are preset earlier in the function's definition 
+balance = withdraw_money(100,80)  # Provide two positional arguments, which are preset earlier in the function's definition 
 
 if balance <= 50:
     print("We need to make a deposit")
