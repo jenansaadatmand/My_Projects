@@ -28,7 +28,7 @@ print()
 
 # Solution 2: to find factorial of a number that is provided by the user
 # To test the program, change the value of num to get a different result
-# The number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive using if...elif...else statement. If the number is positive, we use a for loop and range() function to calculate the factorial.
+# The number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive using if...elif...else statement. If the number is positive, use a for loop and range() function to calculate the factorial.
 
 
 num = 7
