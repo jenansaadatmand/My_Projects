@@ -4,4 +4,3 @@
 minutes = int(input("Enter the number of minutes: "))
 seconds = minutes % 60
 print(seconds, "seconds")
-
