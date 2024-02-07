@@ -1,4 +1,4 @@
-# A program that greets the users, asks for users names and if they enjoy the course
+# A program that greets the users, asks for users' names and if they enjoy the course
  
 print("Hi!")
 name = input("What's your name? ")
