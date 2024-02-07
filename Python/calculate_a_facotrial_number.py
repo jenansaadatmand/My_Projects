@@ -19,7 +19,6 @@ def factorial(n):  # Defining a function
 print("The factorial of 7 is", factorial(7))
 
 
-
 # A zero factorial is a mathematical expression for the number of ways to arrange a data set with no values in it, which equals one. In general, the factorial of a number is a shorthand way to write a multiplication expression wherein the number is multiplied by each number less than it but greater than zero. The factorial of zero is, symbolically represented as. = 1.
 
 # The recursive call is with n-1, which ensures that the value of n decreases with each recursive call, and the function will eventually reach the base case.
@@ -29,7 +28,7 @@ print()
 
 # Solution 2: to find factorial of a number that is provided by the user
 # To test the program, change the value of num to get a different result
-# The number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive using if...elif...else statement. If the number is positive, we use for loop and range() function to calculate the factorial.
+# The number whose factorial is to be found is stored in num, and we check if the number is negative, zero or positive using if...elif...else statement. If the number is positive, we use a for loop and range() function to calculate the factorial.
 
 
 num = 7
