@@ -1,3 +1,5 @@
+# A function that prints Basic or Platinum car wash package
+
 def wash_car():
     package = input("Enter package:")
     if package == "basic":
