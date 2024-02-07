@@ -5,7 +5,7 @@ print()
 def withdraw_money(current_balance, amount): # Function takes two parameters
     if (current_balance >= amount):
         current_balance = current_balance - amount
-        return current_balance  # functions returns a value
+        return current_balance  # Functions returns a value
 
 
 balance = withdraw_money(100,80)  # Provide two positional arguments, which are preset earlier in the function's definition 
