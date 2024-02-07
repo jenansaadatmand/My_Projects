@@ -1,4 +1,4 @@
-# This is a guess the number game.
+# This is a guess-the-number game.
 import random
 secretNumber = random.randint(1, 20)
 print('I am thinking of a number between 1 and 20.')
@@ -19,4 +19,3 @@ if guess == secretNumber:
 else:
     print('Nope. The number I was thinking of was ' + str(secretNumber))
     
-        
