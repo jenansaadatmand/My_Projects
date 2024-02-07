@@ -1,5 +1,5 @@
 # A banking program to withdraw money from an ATM, and display current balance. 
-# Make the program report a message if the balance falls below threshold limit of $50
+# Make the program report a message if the balance falls below the threshold limit of $50
 print()
 
 def withdraw_money(current_balance, amount): # function takes two parameters
