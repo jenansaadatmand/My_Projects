@@ -74,7 +74,7 @@ def factorial(x):
         # recursive call to the function
         return (x * factorial(x-1))
 
-# change the value for a different result
+# Change the value for a different result
 num = 7
 # To take input from the User
 # num = int(input("Enter a number: "))
