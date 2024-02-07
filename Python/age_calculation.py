@@ -1,5 +1,5 @@
 # Age Calculation: Program to calculate Age
-# Input dates of birth in year, month, day format.
+# Input dates of birth in the year, month, day format.
 # output saying year month and days
 
 from datetime import date
