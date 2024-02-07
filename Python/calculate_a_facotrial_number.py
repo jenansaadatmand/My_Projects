@@ -4,7 +4,6 @@
 # For example, the factorial of 6 is 1*2*3*4*5*6 = 720. Factorial is not defined for negative numbers, and the factorial of zero is one, 0! = 1.
 
 
-
 # A factorial: is a function that multiplies a number by every number below it till 1. 
 # For example, the factorial of 3 represents the multiplication of numbers 3, 2, 1, i.e. 3! = 3 × 2 × 1 and is equal to 6.
 
@@ -20,7 +19,7 @@ print("The factorial of 7 is", factorial(7))
 
 
 
-# A zero factorial is a mathematical expression for the number of ways to arrange a data set with no values in it, which equals one. In general, the factorial of a number is a shorthand way to write a multiplication expression wherein the number is multiplied by each number less than it but greater than zero. The factorial of zero is , symbolically represented as. = 1.
+# A zero factorial is a mathematical expression for the number of ways to arrange a data set with no values in it, which equals one. In general, the factorial of a number is a shorthand way to write a multiplication expression wherein the number is multiplied by each number less than it but greater than zero. The factorial of zero is, symbolically represented as. = 1.
 
 # The recursive call is with n-1, which ensures that the value of n decreases with each recursive call, and the function will eventually reach the base case.
 print()
