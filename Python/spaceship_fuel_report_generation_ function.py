@@ -20,4 +20,3 @@ print()
 # Hydrogen tank: 75
 generate_report(80, 70, 75)
 print()
-
