@@ -6,4 +6,3 @@ def days_to_complete(destination, speed):
 
 # use the distance from Earth to the Moon to calculate how many days it would take to get to the Moon at a speed limit of 75 miles per hour: distance to moon = 238855
 print(round(days_to_complete(238855, 75)))  # use round() to round the answer
-
