@@ -11,6 +11,3 @@ print()
 print(distance_from_earth("Saturn"))
 print()
 
-# Functions as arguments 
-
-
