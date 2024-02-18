@@ -1,4 +1,4 @@
-# Program to print attendee name and tickets ordered using class
+# Program to print attendee names and tickets ordered using class
 # Creating a class with the keyword class
 # the first, def --init-- constructor function to specifiy what haooens when you use the class in your code. When you use the class, you specify the name and the tickets parameters, which are saved in the new object
 
