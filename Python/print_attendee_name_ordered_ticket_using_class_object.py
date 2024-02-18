@@ -1,6 +1,6 @@
 # Program to print attendee names and tickets ordered using class
 # Creating a class with the keyword class
-# the first, def --init-- constructor function to specifiy what haooens when you use the class in your code. When you use the class, you specify the name and the tickets parameters, which are saved in the new object
+# The first, def --init-- constructor function to specifiy what haooens when you use the class in your code. When you use the class, you specify the name and the tickets parameters, which are saved in the new object
 
 # The remaining two def statements in the class, define methods that become part of any object that you create based on that class. The first one prints the name and ticket value for the current object(displayAttendee). The second one, add ticket, allows to increase the number of tickets by one that are assigned to an attendee 
 
