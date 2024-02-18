@@ -29,7 +29,7 @@ attendee2 = Attendee('J. Ortega', 1)
 
 # Use the methods from the class to work with these objects that we created
 
-attendee1.displayAttendee() # prints the name and tickets values with labels, this makes it easier to understand the values that are stored in these objects
+attendee1.displayAttendee() # prints the name and ticket values with labels, this makes it easier to understand the values that are stored in these objects
 attendee2.displayAttendee()
 
 
