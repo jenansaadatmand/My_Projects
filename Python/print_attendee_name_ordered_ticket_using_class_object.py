@@ -33,7 +33,7 @@ attendee1.displayAttendee() # prints the name and ticket values with labels, thi
 attendee2.displayAttendee()
 
 
-# Imagine attendee contacted to add more tickets. Use the second method addTicket to add the ticket
+# Imagine an attendee contacted to add more tickets. Use the second method addTicket to add the ticket
 
 attendee2.addTicket() # calling that method adds one ticket
 #attendee2.addTicket() # call it again to add the second ticket 
