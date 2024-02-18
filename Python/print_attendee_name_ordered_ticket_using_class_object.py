@@ -20,7 +20,7 @@ class Attendee: # creating a class with a name
         print('{} tickets increased to {}'.format(self.name, self.tickets))
 
 # Now, we will use our class in some code
-# create a variable attendee1, use Attendee class, pass two parameters to it, name B. giles and ticket 2. The result of this statement will be an object that stores these two properties using the names name and tickets. This new object will also include the displayAttendee and addTicket method that are part of the class it was created from.
+# Create a variable attendee1, use Attendee class, pass two parameters to it, name B. giles and ticket 2. The result of this statement will be an object that stores these two properties using the names name and tickets. This new object will also include the displayAttendee and addTicket method that are part of the class it was created from.
                 
 attendee1 = Attendee('B. giles', 2)
 
