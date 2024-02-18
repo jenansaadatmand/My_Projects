@@ -5,7 +5,7 @@
 # The remaining two def statements in the class, define methods that become part of any object that you create based on that class. The first one prints the name and ticket value for the current object(displayAttendee). The second one, add ticket, allows to increase the number of tickets by one that are assigned to an attendee 
 
 
-class Attendee: # creating a class with a name 
+class Attendee: # Creating a class with a name 
     'Common base class for all attendees' # Description of class
 
     def __init__(self, name, tickets):  # constructor function with parameters
