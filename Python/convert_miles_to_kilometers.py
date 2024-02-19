@@ -4,7 +4,7 @@ miles = input('Enter a distance in miles: ')
 # kilometers_value = miles_value * 1.609344
 
 # 1. Take the value entered by a User
-# 2. Convert it to a value in kilometers
+# 2. Convert it to a value in kilometres
 # 3. Print the result to the terminal 
 # - Text description
 # String concatenation 
