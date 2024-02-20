@@ -8,7 +8,7 @@ while i < 0:
 
 
 # We want the while loop to run as long as i is greater than 0
-i = 10 # here the counter starts at 10 and its greater than 0, so the while loop is executed, will print from 9 to 0, not including 10
+i = 10 # here the counter starts at 10 and it is greater than 0, so the while loop is executed, will print from 9 to 0, not including 10
 
 while i > 0:
     i -= 1 
