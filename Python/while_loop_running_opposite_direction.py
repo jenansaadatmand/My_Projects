@@ -1,5 +1,5 @@
 # A while loop that runs the opposite direction, negative numbers, semantic error, logical error with no message indicating the error
-# This loop was supposed to count down from 10, print every number to the terminal untili t hits 0 and stop
+# This loop was supposed to count down from 10, print every number to the terminal until t hits 0 and stop
 
 i = 10 # setting the counter at 10, since 10 is not less than 0, the statement in the loop is never executed, nothing will be printed 
 while i < 0:
