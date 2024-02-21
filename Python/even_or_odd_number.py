@@ -8,4 +8,3 @@ if x%2 == 0: # use modulus % to check if the number is divisible by 2 in a condi
     print("Number is even")
 else:
     print("Number is odd")
-    
