@@ -1,5 +1,5 @@
 # Reversing a list
-# There are two ways to reverse a list: 1. by reverse() method 2. by a slicing operator 
+# There are two ways to reverse a list: 1. by reverse() method and 2. by a slicing operator 
 
 # Method 1 via reverse() method:
 # Syntax: list.reverse()
