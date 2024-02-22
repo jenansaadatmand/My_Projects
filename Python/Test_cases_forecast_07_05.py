@@ -15,4 +15,4 @@ print()
 
 check_temp(10) # Excutes the first condition and stop
 check_temp(30) # Execute the second condition and stop
-check_temp(37) # execute the third condition 
+check_temp(37) # Execute the third condition 
