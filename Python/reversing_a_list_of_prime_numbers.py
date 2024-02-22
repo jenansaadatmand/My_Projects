@@ -50,7 +50,7 @@ reversed_list = systems[::-1] # Step back from last index
 
 # updated list
 print("Reversed_list: ", reversed_list)
-print('Updated List:', systems) # to confirm original list changed
+print('Updated List:', systems) # To confirm original list changed
 print()
 
 
