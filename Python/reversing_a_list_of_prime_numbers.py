@@ -14,7 +14,7 @@ print("This is a list of prime numbers:", prime_numbers)
 # Reversing the list
 prime_numbers.reverse()    # First you must reverse the list before printing it
 
-print("Reversed list:", prime_numbers)  # using the reverse() method
+print("Reversed list:", prime_numbers)  # Using the reverse() method
 print()
 
 
