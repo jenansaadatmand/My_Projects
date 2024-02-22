@@ -14,5 +14,5 @@ def check_temp(temp):
 print()
 
 check_temp(10) # excutes the first condition and stop
-check_temp(30) # execute the second condition and stop
+check_temp(30) # Execute the second condition and stop
 check_temp(37) # execute the third condition 
