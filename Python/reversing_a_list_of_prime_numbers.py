@@ -58,7 +58,7 @@ print()
 print("Accessing elements via a for loop iteration over the reversed list: ")
 
 # Printing elements in Reversed Order using a for loop and iteration over elements within the reversed list
-# It's better to use reversed() method to access individual elements a list in the reverse order
+# It's better to use reversed() method to access individual elements in a list in the reverse order
 
 for o in reversed(systems): # Use o for the index
     print(o)
