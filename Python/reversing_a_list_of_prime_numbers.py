@@ -30,7 +30,7 @@ print("Operating System List: ", systems)
 systems.reverse() # Reverses the original list permanently
 print("Reversed list: ", systems)
 print()
-print(systems) # Print the original list again to confirm its changed
+print(systems) # Print the original list again to confirm it has changed
 print()
 
 
