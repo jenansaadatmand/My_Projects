@@ -27,7 +27,7 @@ systems = [
     'Linux',
 ]
 print("Operating System List: ", systems)
-systems.reverse() # Reverses the original list permenantly
+systems.reverse() # Reverses the original list permanently
 print("Reversed list: ", systems)
 print()
 print(systems) # Print the original list again to confirm its changed
