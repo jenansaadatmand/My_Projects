@@ -11,7 +11,7 @@ prime_numbers = [2, 3, 5, 7]
 
 print("This is a list of prime numbers:", prime_numbers)
 
-# Reversingt the list
+# Reversing the list
 prime_numbers.reverse()    # first you must reverse the list before printing it
 
 print("Reversed list:", prime_numbers)  # using the reverse() method
