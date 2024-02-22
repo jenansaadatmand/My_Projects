@@ -13,6 +13,6 @@ def check_temp(temp):
         # I don't want to leave a jacket at home for a temperature below 15
 print()
 
-check_temp(10) # excutes the first condition and stop
+check_temp(10) # Excutes the first condition and stop
 check_temp(30) # Execute the second condition and stop
 check_temp(37) # execute the third condition 
