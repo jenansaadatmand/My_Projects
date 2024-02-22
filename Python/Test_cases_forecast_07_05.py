@@ -9,7 +9,7 @@ def check_temp(temp):
     elif temp > 35:
         print('Leave the jacket at home')
 
-# Test case by recalling the function itself with different values that fall within the range of each conditional statement to test them
+# Test the case by recalling the function itself with different values that fall within the range of each conditional statement to test them
         # I don't want to leave a jacket at home for a temperature below 15
 print()
 
