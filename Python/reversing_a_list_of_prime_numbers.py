@@ -62,6 +62,3 @@ print("Accessing elements via a for loop iteration over the reversed list: ")
 
 for o in reversed(systems): # Use o for the index
     print(o)
-
-
-
