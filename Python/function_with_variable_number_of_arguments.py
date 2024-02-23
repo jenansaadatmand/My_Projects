@@ -3,7 +3,7 @@
 
 def multi_add(*args): # Function with a variable number of arguments, *args means variable arguments
     result = 0 # Define a variable that defaults to 0
-    for x in args: # the function loops over each argument, and stores the result in x index or item 
+    for x in args: # The function loops over each argument, and stores the result in x index or item 
         result = result + x # add them all to a running total
     return result  # Returns the resulted total
 
