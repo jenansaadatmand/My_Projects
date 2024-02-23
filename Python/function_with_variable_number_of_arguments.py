@@ -1,4 +1,4 @@
-# Function with variable number of arguments
+# Function with a variable number of arguments
 # * character denotes variable arguments (args)
 
 def multi_add(*args): # function with a variable number of arguments, *args means variable argumenrs
