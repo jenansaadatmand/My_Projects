@@ -9,4 +9,3 @@ def multi_add(*args): # Function with a variable number of arguments, *args mean
 
 print(multi_add(4, 5, 10, 4)) # Variable arguments because *args variable parameters is defined in the function
 print(multi_add(10, 4, 5, 10, 4))  # Add 10 another argument
-
