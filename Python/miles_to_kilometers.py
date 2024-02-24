@@ -10,7 +10,7 @@ miles = input('Enter a distance in miles: ')
 # String concatenation 
 # Use float() to convert the string to a float number with decimal points
 
-# Soluton # 1:
+# Soluton 1:
 miles_float = float(miles) # Convert string from input() to float() for calculations
 kilometers = miles_float * 1.609344 # Convert miles to kilometers
 print("That value in kilometers is")
