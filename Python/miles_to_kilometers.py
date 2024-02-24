@@ -1,4 +1,4 @@
-# A program that converts miles to kilometers
+# A program that converts miles to kilometres
 
 miles = input('Enter a distance in miles: ')
 # kilometers_value = miles_value * 1.609344
