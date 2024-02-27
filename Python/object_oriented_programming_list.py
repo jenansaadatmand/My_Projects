@@ -6,7 +6,7 @@
 # You create objects using a blueprint known as class
 # A class describes the types of attributes and behaviours that an object should have. You can use the same class to build multiple objects based on the same pattern but containing different property values.
 # eg. a class that created list objects 
-# Each time you create a list, your list is created based on Python's built-in class Array, which inherits all behaviours or methods from the array. Similarly, when you create a Python list you inherit all methods from the list class.  This ensures that objects only have methods that they need to avoid needlessly overloading computer memory with unnecessary extra methods, at the same time, this OOP to organization method allows for easily creating new data objects and immediately using the most common methods to work with that data, OOP frees us up from repetatively building the same basic building blocks, more time to build the functionality and features we want in the program 
+# Each time you create a list, your list is created based on Python's built-in class Array, which inherits all behaviours or methods from the array. Similarly, when you create a Python list you inherit all methods from the list class.  This ensures that objects only have methods that they need to avoid needlessly overloading computer memory with unnecessary extra methods, at the same time, this OOP to organization method allows for easily creating new data objects and immediately using the most common methods to work with that data, OOP frees us up from repetitively building the same basic building blocks, more time to build the functionality and features we want in the program 
  
 
 # A list that logs the sequence of results of five coin flips
