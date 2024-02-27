@@ -1,7 +1,7 @@
 # Object Orientation: Object-Oriented Programming (OOP)
 # OOP is an approach to organize or structure your code. It breaks a program into smaller parts known as objects using the Class blueprint
 # Objects can communicate with each other to make a program function but the divisioninto smaller units makes the code easier to reuse and to maintain
-# Each of these objects has its unique attributes/protperties and behaviours/methods. 
+# Each of these objects has its unique attributes/properties and behaviours/methods. 
 # Attributes are the data that the object has and Behaviours are someting that the object can do
 # You create objects using a blueprint known as class
 # A class describes the types of attributes and behaviours that an object should have. You can use the same class to build multiple objects based on the same pattern but containing different property values.
