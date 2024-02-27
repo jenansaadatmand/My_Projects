@@ -20,4 +20,4 @@ flips = [
 ]
 
 print(flips.count('heads')) # use count method to return the number of elements that match a certain string 'heads'
-print(flips.pop()) # using the pop() method will return the final element in the list
+print(flips.pop()) # Using the pop() method will return the final element in the list
