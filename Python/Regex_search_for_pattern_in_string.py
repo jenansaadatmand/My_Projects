@@ -1,4 +1,4 @@
-import re  # importing regular expressions (Regex) into Python
+import re  # Importing regular expressions (Regex) into Python
 
 five_digit_zip = '98101'
 nine_digit_zip = '98101-0003'
