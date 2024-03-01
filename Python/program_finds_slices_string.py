@@ -10,6 +10,6 @@ award_location = note.find('award: ')   # Finding a string using .find() method
 print(award_location)  # You will get a value of index 0 indicating that the award is at the start of the string
 print()
 
-print(note[0:7])  # award starts at index 0 to 7 not including 7
+print(note[0:7])  # Award starts at index 0 to 7 not including 7
 award_text = note[7:]  # Slice the remainder, we know that the award starts at index 0 to 6, so we slice from 7 to the end
 print(award_text)
