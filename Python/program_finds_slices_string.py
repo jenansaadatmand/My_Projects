@@ -11,6 +11,6 @@ print(award_location)  # you will get a value of index 0 indicating that the awa
 print()
 
 print(note[0:7])  # award starts at index 0 to 7 not including 7
-award_text = note[7:]  # Slice the remainder, we know that award starts at index 0 to 6, so we slice from 7 to the end
+award_text = note[7:]  # Slice the remainder, we know that the award starts at index 0 to 6, so we slice from 7 to the end
 print(award_text)
 
