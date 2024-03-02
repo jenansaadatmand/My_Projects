@@ -3,7 +3,7 @@
 # This is a function with the default value for an argument
 # This function takes a number and raises it to the given power
 
-def power(num, x = 1): # function with a default argument 
+def power(num, x = 1): # Function with a default argument 
     result = 1 
     for i in range(x):
         result = result * num
