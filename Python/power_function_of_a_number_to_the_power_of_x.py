@@ -1,6 +1,6 @@
 # A Power function that takes the number and returns the number after raisinf it with the given power 
 
-# This is a function with default value for an argument
+# This is a function with the default value for an argument
 # This function that takes a number and raises it to the given power
 
 def power(num, x = 1): # function with a default argument 
