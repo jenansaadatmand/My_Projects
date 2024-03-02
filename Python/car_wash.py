@@ -1,7 +1,7 @@
 
 def wash_car(amount_paid): # added a parameter to allow the function to change its behaviour based on some input
 
-    if (amount_paid == 12):  # platinum wash
+    if (amount_paid == 12):  # Platinum wash
         print("Wash with tri-color foam")
         print("Rinse twice")
         print("Dry with large blow dryer")
