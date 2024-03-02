@@ -11,7 +11,7 @@ def wash_car(amount_paid): # Added a parameter to allow the function to change i
         print("Rinse once")
         print("Air dry") 
 
-wash_car(12) # Define the positional argument (values to the defined parameter), and keep changing the positional argument to change the output behavior of the function  
+wash_car(12) # Define the positional argument (values to the defined parameter), and keep changing the positional argument to change the output behaviour of the function  
 
 
 
