@@ -6,7 +6,7 @@ def wash_car(amount_paid): # Added a parameter to allow the function to change i
         print("Rinse twice")
         print("Dry with large blow dryer")
 
-    if (amount_paid == 6):  # basic wash
+    if (amount_paid == 6):  # Basic wash
         print("Wash with white foam")
         print("Rinse once")
         print("Air dry") 
