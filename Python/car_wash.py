@@ -22,7 +22,7 @@ amount_paid = 12
 
 
 def wash_car():
-    if (amount_paid == 12):  # platinum wash
+    if (amount_paid == 12):  # Platinum wash
         print("Wash with tri-color foam")
         print("Rinse twice")
         print("Dry with large blow dryer")
