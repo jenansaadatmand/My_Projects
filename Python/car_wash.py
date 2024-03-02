@@ -27,7 +27,7 @@ def wash_car():
         print("Rinse twice")
         print("Dry with large blow dryer")
 
-    if (amount_paid == 6):  # basic wash
+    if (amount_paid == 6):  # Basic wash
         print("Wash with white foam")
         print("Rinse once")
         print("Air dry") 
