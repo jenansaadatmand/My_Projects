@@ -17,7 +17,7 @@ def cube(x):
 # Function with the default value for an argument
 # A function that takes a number and raises it to the given power
 
-def power(num, x=1): # function with an argument with default value 
+def power(num, x=1): # Function with an argument with default value 
     result = 1 
     for i in range(x):
         result = result * num
