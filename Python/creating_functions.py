@@ -54,7 +54,7 @@ print()
 
 func2(10, 20)
 print(func2(10, 20)) # No return value from func2, so we print None
-cube(3) # calling cube will print None because it has a return and no print() statement
+cube(3) # Calling cube will print None because it has a return and no print() statement
 print(cube(3)) # print() function will print the return value of cube()which is 27
 
 print()
