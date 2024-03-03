@@ -31,7 +31,7 @@ def power(num, x=1): # Function with an argument with default value
 
 
 def multi_add(*args): # function with a variable number of arguments
-    result = 0 # Define a variable that default to 0
+    result = 0 # Define a variable that defaults to 0
     for x in args: # the function loops over each argument
         result = result + x # add them all to a running total
     return result  # Returns the resulted total
