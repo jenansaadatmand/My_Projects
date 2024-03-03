@@ -2,7 +2,7 @@
 
 # Define a basic function 
 
-def func1(): # Does not take any argument
+def func1(): # Doesn't take any argument
     print("I am a function")
 
 # Function that takes arguments
