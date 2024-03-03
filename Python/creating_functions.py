@@ -44,7 +44,7 @@ def multi_add(*args): # Function with a variable number of arguments
 # Calling the functions: 
     
 func1() # Calling the function 
-print(func1()) # function still called within the print() function. Since the func1 does not return a value, python evaluates that as None, and prints the string representation of that.
+print(func1()) # Function still called within the print() function. Since the func1 does not return a value, python evaluates that as None, and prints the string representation of that.
 print()
 print()
 
