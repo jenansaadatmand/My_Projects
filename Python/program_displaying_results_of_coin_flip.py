@@ -1,4 +1,4 @@
-# A Program displaying results of coin flips
+# A Program displaying the results of coin flips
 
 flips = ['heads',
         'tails',
