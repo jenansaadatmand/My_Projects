@@ -59,7 +59,7 @@ print(cube(3)) # print() function will print the return value of cube()which is 
 
 print()
 
-power(2) # its a function that returns something and does not print on screen, so nothing happens
+power(2) # its a function that returns something and does not print on the screen, so nothing happens
 print(power(2)) # printing the return form the called function, 2 to the power of 1 = 2
 print(power(2, 3)) # printing the return from the called function, 2 to the power of 3 = 8 (2*2*2)
 print()
