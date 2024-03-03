@@ -11,4 +11,4 @@ print(flips) # prints all the list
 
 print(flips.count('heads')) # Use count() method to return the number of elements that match a certain string 'heads'
 
-print(flips.pop()) # prints the last item in the list using pop() method
+print(flips.pop()) # Prints the last item in the list using pop() method
