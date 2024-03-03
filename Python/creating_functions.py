@@ -14,7 +14,7 @@ def cube(x):
     return x*x*x
 
 
-# Function with default value for an argument
+# Function with the default value for an argument
 # A function that takes a number and raises it to the given power
 
 def power(num, x=1): # function with an argument with default value 
