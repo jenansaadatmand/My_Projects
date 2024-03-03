@@ -27,6 +27,7 @@ def power(num, x=1): # Function with an argument with default value
 
 
 # Function with a variable number of arguments 
+
 # * character means: pass in a variable number of arguments
 
 
