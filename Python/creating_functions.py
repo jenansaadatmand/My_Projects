@@ -36,7 +36,7 @@ def multi_add(*args): # Function with a variable number of arguments
         result = result + x # Add them all to a running total
     return result  # Returns the resulted total
 
-# you can combine a variable argument with a set argument, but always the variable argument must be at the end 
+# You can combine a variable argument with a set argument, but always the variable argument must be at the end 
 
 
 
