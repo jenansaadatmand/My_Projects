@@ -67,5 +67,5 @@ print(power(num=2, x=3))
 print(power(x=3, num=2)) # Reversing order of arguments if you provide the named parameter as well along with the values
 print()
 
-print(multi_add(4, 5, 10, 4)) # variable arguments because *args variable parameters is defined in the function
+print(multi_add(4, 5, 10, 4)) # Variable arguments because *args variable parameters is defined in the function
 print(multi_add(10, 4, 5, 10, 4)) # add 10 another argument
