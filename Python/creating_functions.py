@@ -61,7 +61,7 @@ print()
 
 power(2) # It's a function that returns something and does not print on the screen, so nothing happens
 print(power(2)) # Printing the return form the called function, 2 to the power of 1 = 2
-print(power(2, 3)) # printing the return from the called function, 2 to the power of 3 = 8 (2*2*2)
+print(power(2, 3)) # Printing the return from the called function, 2 to the power of 3 = 8 (2*2*2)
 print()
 print(power(num=2, x=3)) 
 print(power(x=3, num=2)) # Reversing order of arguments if you provide the named parameter as well along with the values
