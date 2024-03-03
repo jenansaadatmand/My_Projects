@@ -30,7 +30,7 @@ def power(num, x=1): # Function with an argument with default value
 # * character means: pass in a variable number of arguments
 
 
-def multi_add(*args): # function with a variable number of arguments
+def multi_add(*args): # Function with a variable number of arguments
     result = 0 # Define a variable that defaults to 0
     for x in args: # the function loops over each argument
         result = result + x # add them all to a running total
