@@ -13,7 +13,7 @@ print('Processing input')
 sum = 0 # Creating a counter 
 for line in infile:    # Taking one line at a time, a number at a time
     sum += int(line) # Converting it to integer, adding them up with + operator and assigning it to Sum variable  
-    print(line.rstrip(), file=outfile) # Printing current line with right space strip character, and specifying to save data to a file, output to outfile variable, which is a file that will be created
+    print(line.rstrip(), file=outfile) # Printing current line with the right space strip character, and specifying to save data to a file, output to outfile variable, which is a file that will be created
 print('\nTotal: ' + str(sum), file=outfile) # convert to string to concatenate strings, store in outfile
 outfile.close()  # Close the outfile
 print('Output complete')
