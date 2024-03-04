@@ -10,7 +10,7 @@
 infile = open('values.txt', 'rt')  # 'rt' read text mode
 outfile = open('values-totaled.txt', 'wt') # 'wt' write mode
 print('Processing input')
-sum = 0 # creating a counter 
+sum = 0 # Creating a counter 
 for line in infile:    # Taking one line at a time, a number at a time
     sum += int(line) # Converting it to integer, adding them up with + operator and assigning it to Sum variable  
     print(line.rstrip(), file=outfile) # Printing current line with right space strip character, and specifying to save data to a file, output to outfile variable, which is a file that will be created
