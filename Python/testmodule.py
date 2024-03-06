@@ -1,3 +1,4 @@
+# Defining a function that multiplies two numbers together to be used in app03_02.py exercise
 
 
 def mult(x, y):  #  A function that multiplies two numbers 
