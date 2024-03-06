@@ -1,7 +1,7 @@
 
 
 def mult(x, y):  #  A function that multiplies two numbers 
-    print(f'{x} * {y} = {x * y}') # String formating with f-string and {} pace holders (formatted string literal)
+    print(f'{x} * {y} = {x * y}') # String formatting with f-string and {} pace holders (formatted string literal)
     
 
 
