@@ -1,4 +1,4 @@
-# Defining a function that multiplies two numbers together to be used in function_multiplies_two_numbers.py exercise
+# A program that calls the function (that multiplies two numbers) stored in testmodule.py
 
 import testmodule as tm # Assigning the module to a tm shortcut
 tm.mult(10, 5) # Referencing the module.function()
