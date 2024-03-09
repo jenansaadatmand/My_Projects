@@ -2,7 +2,7 @@
 # These two functions must be imported from the os module
 # remove('filename') deletes a file
 # rename('old name', 'new name') rename old file to new file
-# os function directory operations, deleting, moving aroud, changing things
+# os function directory operations, deleting, moving around, changing things
 import os
 import time
 curDir = os.getcwd() # cwd current working directory
