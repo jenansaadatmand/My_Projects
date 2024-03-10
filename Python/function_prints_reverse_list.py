@@ -1,5 +1,3 @@
-# A program with a function to print a reverse list.
-
 list = [1,2,3,4,5,6,7,8,9,10]
 reverse_list = []
 print(list)
@@ -17,3 +15,4 @@ def list(n):
     while n > 0 :
         result.append(a)
     return result
+
