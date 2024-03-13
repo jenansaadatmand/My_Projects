@@ -18,7 +18,7 @@ print(randrange(1,10))
 print(randint(1, 10))
 print()
 
-#Creating your own module, save it as .py, place in python folder that you are going to import from 
+# Create your own module, save it as .py, place in python folder that you are going to import from 
 #Importing created prime module and checkIfPrime() function from the same folder as new program
 import prime #Importing module
 prime.checkIfPrime(13) # Calling the function
