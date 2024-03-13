@@ -21,7 +21,7 @@ print()
 #Creating your own module, save it as .py, place in python folder that you are going to import from 
 #importing created prime module and checkIfPrime() function from same folder as new program
 import prime #importing module
-prime.checkIfPrime(13) # calling the function
+prime.checkIfPrime(13) # Calling the function
 answer = prime.checkIfPrime(13) # Assigning variable to returned expression from function
 print(answer)
 print()
