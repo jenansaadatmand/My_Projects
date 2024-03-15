@@ -36,6 +36,7 @@ def myfunction():
     # Declaring a local variable message2 = "Local Variable"
     print(message2)
 message2 = "Local Variable"
+
 # Calling the function myfunction()
 print("\nOUTSIDE THE FUNCTION")
 
