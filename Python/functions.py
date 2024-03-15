@@ -35,10 +35,10 @@ def myfunction():
     
     #Declaring a local variable message2 = "Local Variable"
     print(message2)
-    
 message2 = "Local Variable"
 #calling the function myfunction()
 print("\nOUTSIDE THE FUNCTION")
+
 #Global variables are accessible outside function
 print(message1)
 #local variable are NOT accessible outside function
