@@ -6,7 +6,8 @@ print(a)
 a.replace("World", "Universe")
 print(a)
 
-# defining your own function, def : Return
+# Defining your own function, def : Return
+
 #def functionname(parameter): Expression, code of what function should return answer
 # eg. determine if a number is a prime number, using % modulus operator and for loop and if
 def checkIfPrime(numberToCheck):
