@@ -58,8 +58,9 @@ def myfunction2():
     message1 = "Local Variable (shares same name as a global variable)"
     print("\nINSIDE THE FUNCTION")
     print(message1)
+    
 # Calling the function myFunction2()
-#printing message1 OUTSIDE the function print("\nOUTSIDE THE FUNCTION")
+# Printing message1 OUTSIDE the function print("\nOUTSIDE THE FUNCTION")
     print(message1)
     
 print()
