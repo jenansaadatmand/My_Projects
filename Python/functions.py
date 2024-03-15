@@ -48,7 +48,7 @@ print(message2)
     
 print()
 
-#if global and local variable share similar names
+# if global and local variable share similar names
 '''any code inside the function is accessing the local variable
 and any code outside is accessing the global variable'''
 
