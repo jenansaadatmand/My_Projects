@@ -9,5 +9,5 @@ def bacon():
     print(eggs)    # Prints 'bacon local'
 eggs = 'global'
 bacon()
-print(eggs)        # prints 'global'
+print(eggs)        # Prints 'global'
 
