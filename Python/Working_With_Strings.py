@@ -161,7 +161,7 @@ are done'''
 ''' Notice there is a space before
 the words 'is', 'a', and 'string' in the output''' 
 
-print('This is a string'.split(',')) # one word in list
+print('This is a string'.split(',')) # One word in list
 print('this, is, a, string'.split(','))
 print()
 
