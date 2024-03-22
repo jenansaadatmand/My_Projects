@@ -37,4 +37,3 @@ attendee2.displayAttendee()
 
 attendee2.addTicket() # calling that method adds one ticket
 #attendee2.addTicket() # call it again to add the second ticket 
-
