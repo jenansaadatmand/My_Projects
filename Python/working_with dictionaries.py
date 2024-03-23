@@ -103,7 +103,7 @@ print(len(myTuple))
 
 myTuple = ('a', 'b', 'c', 'd')
 print(myTuple + ('e', 'f'))
-print(myTuple) # unchanged
+print(myTuple) # Unchanged
 myTuple2 = myTuple + ('e', 'f')
 print(myTuple2)
 print()
