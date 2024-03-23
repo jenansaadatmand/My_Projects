@@ -60,7 +60,7 @@ print(dic1a.keys())
 print(dic1a.values())
 print()
 
-# values(),  returns list of the dictionary's values
+# values(),  returns a list of the dictionary's values
 
 dic1bb = {1: 'one', 2: 'two'}
 dic1bb.values()
