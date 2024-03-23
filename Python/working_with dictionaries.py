@@ -81,7 +81,7 @@ print()
 print(dictcc)  # no change
 print()
 
-# working with Tuples
+# Working with Tuples
 # del  , deletes the entire Tuple
 
 myTuple = ('a', 'b', 'c', 'd')
