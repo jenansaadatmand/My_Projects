@@ -18,4 +18,3 @@ outputFile.close()
 #    outputFile.write(msg) msg = inputFile.read(10) #Writes a message to the output file, after writing the message, the statement will read the next 10 bytes and keeps doing it until the entire file is read
 #inputFile.close()
 #outputFile.close()
-
