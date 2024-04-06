@@ -2,7 +2,7 @@
 # Use read() to specify the buffer we want, instead of readline()
 inputFile = open('myfile.txt', 'r')
 outputFile = open('myoutputfile.txt', 'w')
-msg = inputFile.read(10) # read 10 bytes only
+msg = inputFile.read(10) # Read 10 bytes only
 while len(msg):   # Loop through file 10 bytes at a time, checks len variable msg, as long as value is not 0 the loop will run
     outputFile.write(msg + '\n')
     msg = inputFile.read(10) #writes a message to the output file, after writing the message, statement will read the next 10 bytes and keeps doing it until entire file is read
